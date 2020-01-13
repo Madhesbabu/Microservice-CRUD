@@ -1,0 +1,2 @@
+create table USERS1 (id int not null, firstName varchar(20), lastName varchar(20), email varchar(20), phoneNumber varchar(20), address1 varchar(20), address2 varchar(20));
+--create table Accounts (id int not null, accountNumber varchar(20), balance int, userId int));
